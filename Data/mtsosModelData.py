@@ -1,3 +1,9 @@
+"""
+1. updated the convert data
+2. updated split data
+"""
+
+
 mtsos_convert_data = {
                         "boost_std": "BOOST FUNC NTR STANDARD JAR 400G",
                         "horlicks_choco": "HORLICKS FUNC NTR CHOCOLATE JAR 500G",
